@@ -16,6 +16,7 @@ public class MainActivity extends ActionBarActivity {
 		x=0;
 		y=1;
 		y=x+y;
+		///si entraste funciona
 		
 	}
 
